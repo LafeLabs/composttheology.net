@@ -1,4 +1,7 @@
 # [composttheology.net](https://composttheology.net/)
+
+![](cardboard-sign-1.png)
+
 ![](qrcode.png)
 
 # [spore](https://github.com/lafelabs/spore/)
